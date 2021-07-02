@@ -1,6 +1,8 @@
 # QUBCoin
 
-DG03: QUBCoin – Using Blockchain to reward Attendance and other Positive Behaviour
+QUBCoin – Using Blockchain to reward Attendance and other Positive Behaviour
+
+A dissertation project for the degree of Bachelor of Engineering - Computer Science at Queen's University Belfast.
 
 <img src="/app/src/main/res/drawable/qubcoin_logo_hd.png"  width="120" height="120">
 

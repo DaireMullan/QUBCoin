@@ -1,0 +1,24 @@
+{
+  "name": "sdk",
+  "version": "1.0.0",
+  "description": "Demonstrates the use of Fabric Node SDK",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "cd gateway && rm -rf user-wallet; cd gateway && node wallet.js add acme Admin",
+    "test": "nyc mocha"
+  },
+  "author": "raj@acloudfan.com",
+  "license": "ISC",
+  "dependencies": {
+    "asn1.js": "^5.4.1",
+    "chai": "^4.3.4",
+    "fabric-client": "^1.4.0",
+    "fabric-network": "^1.4.0",
+    "fs": "0.0.1-security",
+    "grpc": "^1.24.4",
+    "js-sha256": "^0.9.0",
+    "mocha": "^8.3.2",
+    "nyc": "^15.1.0",
+    "path": "^0.12.7"
+  }
+}

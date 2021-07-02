@@ -1,0 +1,23 @@
+Not_For_Gitlab
+middleware_app/sdk/node_modules
+middleware_app/webserver/node_modules
+middleware_app/sdk/gateway/user-wallet
+network/bin/env
+network/bin/_launch.sh
+network/bin/_shutdown.sh
+network/bin/cc.env.sh
+network/crypto
+network/config/airline-genesis.block
+network/config/airline-anchor-update-acme.tx
+network/config/airline-anchor-update-budget.tx
+network/config/airline-channel.tx
+
+# Android Studio
+*.iml
+.idea
+.gradle
+app/build/
+.navigation
+captures/
+output.json
+local.properties

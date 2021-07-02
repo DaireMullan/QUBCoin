@@ -1,0 +1,26 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "Serves up some JSON for QUBCOIN",
+  "main": "app.js",
+  "scripts": {
+    "start": "node appv2.js",
+    "test": "nyc mocha --exit"
+  },
+  "author": "dmullan25@qub.ac.uk",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "browser-sync": "^2.26.14",
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "grpc": "^1.24.6",
+    "http-server": "^0.12.3",
+    "jsend": "^1.1.0",
+    "mocha": "^8.3.2",
+    "nyc": "^15.1.0",
+    "qrcode": "^1.4.4"
+  }
+}

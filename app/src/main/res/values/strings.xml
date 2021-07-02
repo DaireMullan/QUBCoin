@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">QUBCoin</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_user_id">Email Address</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_module_code">Module Code (Numeric)</string>
+    <string name="prompt_course_code">Course Code (eg CSC)</string>
+    <string name="prompt_module_name">Module Name</string>
+    <string name="prompt_qr_value">QUBCoin Value</string>
+    <string name="prompt_qr_reason">Reason for awarding QUBCoin</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_create_module">Create Module</string>
+    <string name="action_create_qr">Create QUBCoin QR Code</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_user_id">This ID is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_invalid_module_code">This module code must contain 4 digits</string>
+    <string name="error_invalid_module_name">This module name is invalid</string>
+    <string name="error_invalid_course_code">This course code must contain 3 or 4 characters</string>
+    <string name="error_invalid_qubcoin_value">This value is invalid</string>
+    <string name="error_qubcoin_value_too_large">QR codes maximum value is 5 QUBCoin</string>
+    <string name="error_invalid_qr_reason">This reason is invalid</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_email_invalid">This email is invalid</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="qubcoin_logo">QUBCoin Logo</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="view_qr_codes">View QR Codes</string>
+    <string name="create_qr_code">Create QR Code</string>
+    <string name="create_module">Create Module</string>
+    <string name="join_module">Join Module</string>
+    <string name="no_qr_codes">No QR Codes have been created for this module yet.</string>
+    <string name="no_module_info">No Module information available.</string>
+    <string name="no_modules">No Modules enrolled.\nClick join to get started.</string>
+    <string name="go_back_create">Go back to main page to create.</string>
+    <string name="create_a_qubcoin_qr_code">Create a QUBCoin QR Code</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="password">Password</string>
+</resources>

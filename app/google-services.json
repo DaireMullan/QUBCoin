@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716773291894",
+    "project_id": "qub-coin",
+    "storage_bucket": "qub-coin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716773291894:android:efcf8e51378fb6c171ec57",
+        "android_client_info": {
+          "package_name": "uk.ac.qub.qubcoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716773291894-kusbfm2lkdppnma3hgk0h6mc1uf8s1kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHLBNX93zD5gcC7PYgYpiJ8y5XB4aweiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716773291894-kusbfm2lkdppnma3hgk0h6mc1uf8s1kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
